@@ -1,0 +1,62 @@
+html {
+font: 0px Courier;
+color: white;
+}
+
+.layer {
+display: block;
+}
+
+.box {
+font: 96px Courier;
+width: 120px;
+height: 120px;
+text-align: center;
+display: block;
+
+}
+#box_1{
+position:relative;
+left: 120px;
+}
+#box_2{
+position:relative;
+left: 240px;
+}
+#box_3{
+position:relative;
+left: 360px;
+}
+#box_4{
+position:relative;
+left: 480px;
+}
+#box_5{
+position:relative;
+left: 480px;
+}
+#box_6{
+position:relative;
+left: 360px;
+}
+#box_7{
+position:relative;
+left: 240px;
+}
+#box_8{
+position:relative;
+left: 120px;
+}
+.odd {
+background-color: #ee3e64;
+}
+
+.even {
+background-color: #44accf;
+}
+
+1 {
+
+position: relative;
+left: 120px;
+}
